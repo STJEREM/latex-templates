@@ -8,3 +8,6 @@ This is a collection of my latex templates.
 ### [scientific paper](scientific-paper)
 This template is using subfiles for each chapter. It also contains a BibTeX bibliography.
 
+### [journal article](journal-article)
+A two-column document.
+
